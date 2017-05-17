@@ -1,0 +1,557 @@
+Account,Name,City,State,Latitude,Longitude,Type,Score,Desc
+Boston After School and Beyond,Boston MA,Boston,MA,42.3514653,-71.0601767,Core,54,Boston MA
+Masala Art,Needham MA,Needham,MA,42.2748016,-71.2458436,Core,46,Needham MA
+SF Custom Chiropractic,San Francisco CA,San Francisco,CA,37.7959362,-122.4000032,Core,19,San Francisco CA
+Master Chimney Sweepers,Lexington MA,Lexington,MA,42.4286907,-71.2280234,Core,96,Lexington MA
+No Risk Painting,Watertown MA,Watertown,MA,42.3709299,-71.1828321,Core,38,Watertown MA
+"Wellesley Partners, Ltd.",Wellesley MA,Wellesley,MA,42.3093812,-71.2814816,Core,64,Wellesley MA
+Salutary Solutions,Norton MA,Norton,MA,41.9629235,-71.1804988,Core,6,Norton MA
+CrabbyHomes,Baltimore MD,Baltimore,MD,39.287866,-76.5921665,Core,69,Baltimore MD
+Pine Village Preschool,Allston MA,Allston,MA,42.3539038,-71.1337112,Core,47,Allston MA
+"Architectural Surfaces, Inc.",Albuquerque NM,Albuquerque,NM,35.1590068,-106.5760857,Core,74,Albuquerque NM
+Real Estate Cafe,Cambridge MA,Cambridge,MA,42.3803274,-71.1389101,Core,71,Cambridge MA
+Boston AREIA,Medford MA,Medford,MA,42.4274971,-71.1092012,Core,48,Medford MA
+AHT Interiors,Alpharetta GA,Alpharetta,GA,34.0952227,-84.2173403,Core,65,Alpharetta GA
+The Galley Diner,South Boston MA,South Boston,MA,42.3364553,-71.0349193,Core,9,South Boston MA
+Red Lady Travel,Centreville VA,Centreville,VA,38.8193117,-77.4587239,Core,27,Centreville VA
+"Continuing Education, LLC",Boston MA,Boston,MA,42.3364553,-71.0349193,Core,32,Boston MA
+Kendall Press,Cambridge MA,Cambridge,MA,42.3635847,-71.0824613,Core,10,Cambridge MA
+NGT Marketing Group LLC,Southfield MI,Southfield,MI,42.4595697,-83.2398943,Core,98,Southfield MI
+The Baxter Law Firm,Creskill NJ,Creskill,NJ,40.9414874,-73.9593041,Core,26,Creskill NJ
+Joyous Angels Kids Klub,McKinney TX,McKinney,TX,33.1632842,-96.5890166,Core,91,McKinney TX
+Mobile Realty Works,Boston MA,Boston,MA,42.3660616,-71.0482911,Core,3,Boston MA
+Knapp Schenck Insurance Services,Boston MA,Boston,MA,42.3660616,-71.0482911,Core,35,Boston MA
+Lighthouse Express Car Wash,Lawrenceville GA,Lawrenceville,GA,33.9255183,-83.9214896,Core,15,Lawrenceville GA
+My Tepui,Brighton MA,Brighton,MA,42.3463503,-71.1626756,Core,92,Brighton MA
+GrandSlam Pool Cleaning & Maintenance,Lehigh Acres FL,Lehigh Acres,FL,26.655107,-81.614468,Core,55,Lehigh Acres FL
+McKinney's Transport,McKinney TX,McKinney,TX,33.2505263,-96.6317461,Core,1,McKinney TX
+Beth Krupa Interiors,Stamford CT,Stamford,CT,41.0411194,-73.541744,Core,100,Stamford CT
+Little Tumbling Teddy Bears Home Day Care,Colorado Springs CO,Colorado Springs,CO,38.9301358,-104.8804893,Core,63,Colorado Springs CO
+Side Street Bar & Grill,Fertile MN,Fertile,MN,47.5360765,-96.2803328,Core,61,Fertile MN
+Freedom Travel,Alexandria LA,Alexandria,LA,31.2677027,-92.4653598,Core,59,Alexandria LA
+Trust Security & Fire Watch,Fort Washington MD,Fort Washington,MD,38.7478222,-76.9988669,Core,45,Fort Washington MD
+Burke Printing,Lake Forest IL,Lake Forest,IL,42.2586342,-87.840625,Core,56,Lake Forest IL
+Creative Image Associates,Newark DE,Newark,DE,39.670937,-75.7080727,Core,11,Newark DE
+SmartBooks,Concord MA,Concord,MA,42.4527187,-71.3705616,Core,72,Concord MA
+Lance Lawsuit Funding,Cresskill NJ,Cresskill,NJ,40.9414874,-73.9593041,Core,78,Cresskill NJ
+Denise Dolan Design,Pacifica CA,Pacifica,CA,37.6101767,-122.4806894,Core,18,Pacifica CA
+Michigan Spine Management Clinic,Dearborn Heights MI,Dearborn Heights,MI,42.3446054,-83.2827093,Core,12,Dearborn Heights MI
+Bharata Kala LLC,Piscataway NJ,Piscataway,NJ,40.554887,-74.4642861,Core,2,Piscataway NJ
+Radbill Consulting,Sudbury MA,Sudbury,MA,42.384659,-71.4180622,Core,31,Sudbury MA
+Performance Support Partners,Marion OH,Marion,OH,40.5886699,-83.1285242,Core,77,Marion OH
+"JBYRD Nurseries, LLC",Soldotna AK,Soldotna,AK,60.4877778,-151.0583332,Core,5,Soldotna AK
+The Money Mammals,Los Angeles CA,Los Angeles,CA,34.0748887,-118.3082034,Core,89,Los Angeles CA
+The Old North Church,Boston MA,Boston,MA,42.3654231,-71.0549768,Core,30,Boston MA
+Devonia Antiques,Boston MA,Boston,MA,42.3652917,-71.0646337,Core,84,Boston MA
+WhiteAcre Properties,Framingham MA,Framingham,MA,42.3240042,-71.4536835,Core,43,Framingham MA
+The Healing Room,Chicago IL,Chicago,IL,41.9007097,-87.6531805,Core,86,Chicago IL
+RADYONOU,Orlando FL,Orlando,FL,28.4889021,-81.4114142,Core,49,Orlando FL
+Midtown Lutheran Preschool,Atlanta GA,Atlanta,GA,33.7717008,-84.3726049,Core,70,Atlanta GA
+Buy My Home Boston Areia,Cambridge MA,Cambridge,MA,42.3635847,-71.0824613,Core,33,Cambridge MA
+Touch of Light Healing & Bodywork,Chadds Ford PA,Chadds Ford,PA,39.8717773,-75.5913178,Core,21,Chadds Ford PA
+Eileen Lanza,Los Angeles CA,Los Angeles,CA,34.0748887,-118.3082034,Core,28,Los Angeles CA
+The Learning Tree Daycare & Preschool,Medway MA,Medway,MA,42.1417641,-71.3967256,Core,88,Medway MA
+Noble Cleaners,Woodland Hills CA,Woodland Hills,CA,34.1785255,-118.597305,Core,24,Woodland Hills CA
+Slites Injury Prevention Institute,Solana Beach CA,Solana Beach,CA,32.991155,-117.2711481,Core,82,Solana Beach CA
+Santa Clara Custom Chiropractic,Santa Clara CA,Santa Clara,CA,37.3986039,-121.9643745,Core,68,Santa Clara CA
+Dulce Press,Mashpee MA,Mashpee,MA,41.6177476,-70.5145939,Core,14,Mashpee MA
+DiscoverText,Amherst MA,Amherst,MA,42.3732216,-72.5198537,Core,80,Amherst MA
+M&M Merchant Card Services Inc.,Atlanta GA,Atlanta,GA,33.620038,-84.5327038,Core,36,Atlanta GA
+Ice Goddess,Wellington FL,Wellington,FL,26.6374761,-80.2432839,Core,94,Wellington FL
+To The Point Dog Training,Littleton CO,Littleton,CO,39.5069625,-105.0557415,Core,41,Littleton CO
+Jake SAT Prep,Old Bethpage NY,Old Bethpage,NY,40.7625993,-73.4531786,Core,44,Old Bethpage NY
+MCH Cycles,Medway MA,Medway,MA,42.1417641,-71.3967256,Core,66,Medway MA
+Rappel Maui,Kahului HI,Kahului,HI,20.8733133,-156.4628632,Core,53,Kahului HI
+"Encompass Background Screening Solutions, LLC",Morehead KY,Morehead,KY,38.1839705,-83.4326841,Core,13,Morehead KY
+"Heise & Heise, LLP",Baltimore MD,Baltimore,MD,39.2713976,-76.5603828,Core,42,Baltimore MD
+Arquiste,New York NY,New York,NY,40.7217861,-74.0094471,Core,87,New York NY
+First Venture Legal,Cambridge MA,Cambridge,MA,42.3716445,-71.0809757,Core,29,Cambridge MA
+Broken To Be Blessed,Hoboken NJ,Hoboken,NJ,40.7439905,-74.0323626,Core,85,Hoboken NJ
+Design Custom Homes of Madison,DeForest WI,DeForest,WI,43.2477685,-89.343727,Core,95,DeForest WI
+Total Marksman,Fontana CA,Fontana,CA,34.0482749,-117.4438924,Core,73,Fontana CA
+Bernadette Trafton,Derry NH,Derry,NH,42.8680259,-71.3756912,Core,54,Derry NH
+Tulen Boston,Boston MA,Boston,MA,42.3514653,-71.0601767,Core,7,Boston MA
+Piano Craft,Gaithersburg MD,Gaithersburg,MD,39.1438746,-77.1887747,Core,90,Gaithersburg MD
+Hire with Ease,Littleton CO,Littleton,CO,39.5327347,-104.8980058,Core,8,Littleton CO
+Clean Method,Fairfax VA,Fairfax,VA,38.864187,-77.2577571,Core,93,Fairfax VA
+Applied Synergy Group,Braintree MA,Braintree,MA,42.2020445,-71.014118,Core,58,Braintree MA
+Tech Help Boston,and Braintree MA,and Braintree,MA,42.2020445,-71.014118,Core,40,and Braintree MA
+Natural Wonders Preschool,Syracuse IN,Syracuse,IN,41.4278257,-85.7524895,Core,99,Syracuse IN
+Around the Corner Art Center,Freehold NJ,Freehold,NJ,40.2303787,-74.2766186,Core,16,Freehold NJ
+"Family Builders, LLC",Canton MI,Canton,MI,42.3047219,-83.4819418,Core,51,Canton MI
+"VECTOR INSURANCE SERVICES, LLC",Shreveport LA,Shreveport,LA,32.5099127,-93.7485874,Core,83,Shreveport LA
+Rue Fitness,Melbourne FL,Melbourne,FL,28.1988979,-80.7879407,Core,81,Melbourne FL
+Exceed Sports Performance & Fitness,Westborough MA,Westborough,MA,42.2695216,-71.6161294,Core,37,Westborough MA
+Preschool Plan It,Winchendon MA,Winchendon,MA,42.6871009,-72.0439529,Core,50,Winchendon MA
+Faces by Norma and Company,Hanover MA,Hanover,MA,42.1162217,-70.8476708,Core,20,Hanover MA
+"Plan Sea Realty Group, LLC",Braintree MA,Braintree,MA,42.22,-71,Core,57,Braintree MA
+Boston Intuitive,Charlestown MA,Charlestown,MA,42.3782065,-71.0602131,Core,22,Charlestown MA
+Maryland Speedy Tag & Title,Glen Burnie MD,Glen Burnie,MD,39.1511679,-76.6239423,Core,23,Glen Burnie MD
+The Gadget Guys,Fort Washington MD,Fort Washington,MD,38.7478222,-76.9988669,Core,60,Fort Washington MD
+Goss Associates,Easton MD,Easton,MD,38.7742826,-76.0763305,Core,79,Easton MD
+Edge Body Boot Camp Omaha,La Vista NE,La Vista,NE,41.1838878,-96.031127,Core,75,La Vista NE
+Heart Healthy Scrum,San Francisco CA,San Francisco,CA,37.7877522,-122.4382307,Core,52,San Francisco CA
+Painting Under the Influence,N. Reading MA,N. Reading,MA,42.5750939,-71.0786653,Core,76,N. Reading MA
+Mosquito Platoon,Chester PA,Chester,PA,39.8400941,-75.3703662,Core,34,Chester PA
+Coastal Family Chiropractic,Port St Lucie FL,Port St Lucie,FL,27.2932971,-80.2878794,Core,39,Port St Lucie FL
+Lavy Windows Inc,Camden IN,Camden,IN,40.6316284,-86.4693235,Core,97,Camden IN
+Amped Video Services,Jackson NJ,Jackson,NJ,40.0918895,-74.3587473,Core,67,Jackson NJ
+Charron Medical Services,Nashua NH,Nashua,NH,42.7470311,-71.4596201,Core,17,Nashua NH
+Kelly Insurance Group,Gilbert AZ,Gilbert,AZ,33.2411354,-111.7256936,Core,62,Gilbert AZ
+"National ES Testing Services, INC",Dacula GA,Dacula,GA,33.9887165,-83.8979573,Core,4,Dacula GA
+Iron Mountain Counseling,Sandy UT,Sandy,UT,40.5749102,-111.8866683,Core,0,Sandy UT
+Slender in Savannah,Savannah GA,Savannah,GA,32.0005346,-80.9760556,Core,25,Savannah GA
+Lady Slipper Creations,Chester NH,Chester,NH,42.9731785,-71.263663,Core,55,Chester NH
+MyShortSaleApproval.com,N. Miami Beach FL,N. Miami Beach,FL,25.9260794,-80.1819268,Core,95,N. Miami Beach FL
+Lake Area Discovery Center,White Bear Lake MN,White Bear Lake,MN,45.0853814,-93.0081479,Core,15,White Bear Lake MN
+HIRE-IQ,Malvern PA,Malvern,PA,40.037745,-75.5393155,Core,57,Malvern PA
+Trinity Presbyterian Preschool,Atlanta GA,Atlanta,GA,33.8604722,-84.4277703,Core,29,Atlanta GA
+SingleSource Communications,Fremont NE,Fremont,NE,41.4333909,-96.4981467,Core,67,Fremont NE
+Spa Medique,Londonderry NH,Londonderry,NH,42.8680259,-71.3756912,Core,48,Londonderry NH
+Mark Staley Yoga,Pittsburgh PA,Pittsburgh,PA,40.5068453,-79.9080757,Core,11,Pittsburgh PA
+Total Access of New England,Westborough MA,Westborough,MA,42.2695216,-71.6161294,Core,89,Westborough MA
+Belgian Design Products,New York NY,New York,NY,40.6998433,-74.0072436,Core,93,New York NY
+UMA Lakeville,Lakeville MN,Lakeville,MN,44.6496868,-93.24272,Core,19,Lakeville MN
+The Magic Ian Tour,Anaheim CA,Anaheim,CA,33.8362104,-117.8721676,Core,61,Anaheim CA
+Maren Higbee Books,Seattle WA,Seattle,WA,47.5745802,-122.4047843,Core,85,Seattle WA
+Harold's Handyman Service L.L.C.,Olympia WA,Olympia,WA,47.1139164,-122.7708828,Core,39,Olympia WA
+Informed Web Content,San Diego CA,San Diego,CA,32.8932137,-117.0676398,Core,54,San Diego CA
+Fluhme Glam Bar,Warrendale PA,Warrendale,PA,40.6598363,-80.0885437,Core,45,Warrendale PA
+Dr. Sue,Ann Arbor MI,Ann Arbor,MI,42.2660881,-83.7146001,Core,75,Ann Arbor MI
+Merrimack Valley Chiropractic,North Andover MA,North Andover,MA,42.6987024,-71.1350575,Core,96,North Andover MA
+Drama Learning Center,Columbia MD,Columbia,MD,39.201384,-76.8374995,Core,8,Columbia MD
+Rob Howze,Bowie MD,Bowie,MD,38.9860548,-76.745195,Core,80,Bowie MD
+Toner Architects,Philadelphia PA,Philadelphia,PA,39.9120596,-75.1487007,Core,35,Philadelphia PA
+Grand River Signs,Grand Rapids MI,Grand Rapids,MI,42.8846539,-85.5509164,Core,73,Grand Rapids MI
+Food. Stories. Travel.,Somerville MA,Somerville,MA,42.3991718,-71.1240559,Core,25,Somerville MA
+All Pro Chimney Service,Silver Spring MD,Silver Spring,MD,39.0816821,-77.0449327,Core,4,Silver Spring MD
+The Inspection People,Phoenix AZ,Phoenix,AZ,33.6289952,-112.1370601,Core,32,Phoenix AZ
+True Med Spa,Scottsdale AZ,Scottsdale,AZ,33.4986286,-111.9224398,Core,65,Scottsdale AZ
+Golden Chiropractic,Aptos CA,Aptos,CA,36.9771729,-121.8994016,Core,46,Aptos CA
+Total Movement Fitness,Northglenn CO,Northglenn,CO,39.9122468,-105.0031457,Core,57,Northglenn CO
+Stars Montessori Academy,Vista CA,Vista,CA,33.1778834,-117.2534184,Core,93,Vista CA
+Kelly Williams Photography,Irving TX,Irving,TX,32.8449965,-96.9799755,Core,38,Irving TX
+5280FIT,Highlands Ranch CO,Highlands Ranch,CO,39.5511448,-104.9505671,Core,71,Highlands Ranch CO
+Who's That Girl? Wedding and Events,Clear Lake Shores TX,Clear Lake Shores,TX,29.547452,-95.0321506,Core,16,Clear Lake Shores TX
+Dr. Ryan J Mayeda DC,Greeley CO,Greeley,CO,40.3962637,-104.7871004,Core,7,Greeley CO
+80-20 Agency,Bloomington IN,Bloomington,IN,39.0793558,-86.438974,Core,29,Bloomington IN
+Franny's Farm,Leicester NC,Leicester,NC,35.6551074,-82.6962438,Core,36,Leicester NC
+Salon JLS,Boston MA,Boston,MA,42.3660616,-71.0482911,Core,62,Boston MA
+Craig Lambert Couples Therapy,La Jolla CA,La Jolla,CA,32.8283259,-117.255854,Core,55,La Jolla CA
+Lifelong Nutrition and Fitness,Lompoc CA,Lompoc,CA,34.6391501,-120.4579409,Core,25,Lompoc CA
+Bright Future Day Care,Washington DC,Washington,DC,38.9274061,-76.9729472,Core,43,Washington DC
+"R.T. McCalpin & Associates, LLC",Laurel MD,Laurel,MD,39.1043687,-76.8836261,Core,32,Laurel MD
+Next Level Fitness & Performance,Haymarket VA,Haymarket,VA,38.8120591,-77.6363806,Core,87,Haymarket VA
+Nicholas Scott Salon,Tewksbury MA,Tewksbury,MA,42.6106478,-71.2342248,Core,15,Tewksbury MA
+Reach for the Sky Vacations,Abita Springs LA,Abita Springs,LA,30.4785257,-90.0375755,Core,23,Abita Springs LA
+Pestex,Framingham MA,Framingham,MA,42.2781628,-71.4358733,Core,60,Framingham MA
+Carefree Catering,Phoenix AZ,Phoenix,AZ,33.6782379,-112.1012912,Core,67,Phoenix AZ
+Kim Laughlin Health Coaching,Acushnet MA,Acushnet,MA,41.7223696,-70.8952337,Core,86,Acushnet MA
+"Take Action with Michele, Inc.",Estero FL,Estero,FL,26.438136,-81.8067523,Core,82,Estero FL
+Micro Ice,North Andover MA,North Andover,MA,42.6987024,-71.1350575,Core,4,North Andover MA
+proline,Oregon OH,Oregon,OH,41.6615051,-83.4109834,Core,28,Oregon OH
+BalanceDiet,Billings MT,Billings,MT,45.7832856,-108.5006904,Core,9,Billings MT
+yogaOne Studios,Houston TX,Houston,TX,29.7431508,-95.38872,Core,100,Houston TX
+Beacon Telecom,Canton MA,Canton,MA,42.1584324,-71.1447732,Core,11,Canton MA
+Specialty Cakes,Springfield IL,Springfield,IL,39.7960095,-89.6716867,Core,47,Springfield IL
+Rapha Clinic,Potomac Falls VA,Potomac Falls,VA,39.0366372,-77.4002206,Core,74,Potomac Falls VA
+Sales Sense Payments,Rochester NY,Rochester,NY,43.1156031,-77.55621,Core,52,Rochester NY
+U Rang Delivery,Winter Springs FL,Winter Springs,FL,28.6820373,-81.2628961,Core,79,Winter Springs FL
+Joshua's Fine Jewelry,Russellville AR,Russellville,AR,35.2785177,-93.1428341,Core,70,Russellville AR
+Seta's Cafe,Belmont MA,Belmont,MA,42.2828061,-71.6697206,Core,97,Belmont MA
+Captain Jackson's,Boston MA,Boston,MA,42.3654231,-71.0549768,Core,80,Boston MA
+Galvinized Fitness,Brighton MA,Brighton,MA,42.3463503,-71.1626756,Core,20,Brighton MA
+Aborn & Company,Norwell MA,Norwell,MA,42.1615157,-70.7927832,Core,91,Norwell MA
+Sunny World Preschool,Bellevue WA,Bellevue,WA,47.6120759,-122.1112721,Core,41,Bellevue WA
+Amrheins,Boston MA,Boston,MA,42.3364553,-71.0349193,Core,2,Boston MA
+"Jones & Associates Law, PC",Media PA,Media,PA,39.9167783,-75.387693,Core,70,Media PA
+Kenny's Lock Inc.,Boston MA,Boston,MA,42.2967146,-71.0527482,Core,12,Boston MA
+Jamaica Jamaica Cuisine,San Antonio TX,San Antonio,TX,29.4895776,-98.385532,Core,68,San Antonio TX
+Kori Burkholder,New York NY,New York,NY,40.7536854,-73.9991637,Core,92,New York NY
+Mitch Reed Music Lessons,Scott LA,Scott,LA,30.2688747,-92.1155691,Core,47,Scott LA
+MODE a waxing studio,Spokane WA,Spokane,WA,47.6568696,-117.3719973,Core,65,Spokane WA
+Chip Berry Insurance,cincinnati OH,cincinnati,OH,39.2123057,-84.4015075,Core,43,cincinnati OH
+localmovings.com,Houston TX,Houston,TX,29.7246822,-95.5564777,Core,52,Houston TX
+The Royal Children's Show Productions,Succasunna NJ,Succasunna,NJ,40.8537087,-74.6576091,Core,34,Succasunna NJ
+Crush Complacency,Taunton MA,Taunton,MA,41.9241038,-71.121085,Core,19,Taunton MA
+Shawn Preston Magic,Sentinel CO,Sentinel,CO,39.6765847,-104.8310514,Core,28,Sentinel CO
+Atlantic Coast Trailer Sales,Washington DC,Washington,DC,38.9374808,-77.0852258,Core,75,Washington DC
+SIR Accounting & Tax,Fayetville NC,Fayetville,NC,35.0585989,-79.0532061,Core,96,Fayetville NC
+Henson Fire,Medford MA,Medford,MA,42.42,-71.13,Core,2,Medford MA
+Voss Farms,Paynesville MN,Paynesville,MN,45.3768459,-94.7236488,Core,81,Paynesville MN
+Hank & Ax,Omaha NE,Omaha,NE,41.2899133,-96.0996978,Core,85,Omaha NE
+Reflective Homes New Hampshire Real Estate,Nashua NH,Nashua,NH,42.7795584,-71.5130445,Core,9,Nashua NH
+Head to Toe Muscle Clinic,Greenwich CT,Greenwich,CT,41.0676332,-73.5888575,Core,31,Greenwich CT
+The Wellness Center of NY,New York NY,New York,NY,40.7593941,-73.9697795,Core,17,New York NY
+Onsite Techs,Jamestown RI,Jamestown,RI,41.4963134,-71.3711656,Core,6,Jamestown RI
+Walkabout Software,Cincinnati OH,Cincinnati,OH,39.0930395,-84.5667665,Core,76,Cincinnati OH
+JTMVACATIONS,Rockville MD,Rockville,MD,39.0747097,-77.1197521,Core,32,Rockville MD
+Little River Medical Center,Little River SC,Little River,SC,33.8732279,-78.6141798,Core,88,Little River SC
+The Yarn Outlet of Nazareth,Nazareth PA,Nazareth,PA,40.740375,-75.3096237,Core,90,Nazareth PA
+Botelho Law Group,Fall River MA,Fall River,MA,41.6898739,-71.1270268,Core,11,Fall River MA
+Cognitive-Behavioral Therapy Center,Glendale CA,Glendale,CA,34.1893001,-118.2702036,Core,24,Glendale CA
+Rev Sinnerael Coaching,Guerneville CA,Guerneville,CA,38.5018575,-122.9961102,Core,59,Guerneville CA
+Gross Catholic High School,Bellevue NE,Bellevue,NE,41.1775208,-95.9515399,Core,39,Bellevue NE
+Fit For Women,Livonia MI,Livonia,MI,42.3939863,-83.3735966,Core,100,Livonia MI
+McElroy Pediatric Dentistry,Bloomingdale IL,Bloomingdale,IL,41.9485328,-88.0949609,Core,56,Bloomingdale IL
+Gary's Wildlife,Middleborough MA,Middleborough,MA,41.875212,-70.8357792,Core,60,Middleborough MA
+Belltower Montessori Academy,Corona CA,Corona,CA,33.8813831,-117.5378439,Core,46,Corona CA
+Propel Business Services,Quincy MA,Quincy,MA,42.2991086,-71.0111463,Core,53,Quincy MA
+ITADX,Belmont MA,Belmont,MA,42.3958849,-71.1745579,Core,10,Belmont MA
+A&D Locksmith Services,Hallsville TX,Hallsville,TX,32.504316,-94.5740934,Core,32,Hallsville TX
+Lost&Found Inc.,Moorseville NC,Moorseville,NC,35.5910505,-80.8765205,Core,72,Moorseville NC
+"Just Lovely Living, LLC",Smyrna GA,Smyrna,GA,33.8806897,-84.5064881,Core,60,Smyrna GA
+Carolina ChiroCare and Rehab,Raleigh NC,Raleigh,NC,35.8019142,-78.6875364,Core,46,Raleigh NC
+N Nicely Photography,Clifton Forge VA,Clifton Forge,VA,37.816239,-79.8244947,Core,56,Clifton Forge VA
+"GlowHouse Kids, LLC",Pompton Lakes NJ,Pompton Lakes,NJ,41.0053753,-74.2907041,Core,62,Pompton Lakes NJ
+Healthy Benefits Card,Moorseville NC,Moorseville,NC,35.584285,-80.7879407,Core,67,Moorseville NC
+Lil' Jake's Indoor Safety Village & Playground LLC,Nashua NH,Nashua,NH,42.7189172,-71.4893013,Core,0,Nashua NH
+The Spofford Group,Hingham MA,Hingham,MA,42.2418172,-70.889759,Core,80,Hingham MA
+Desert Star Dance,Chandler AZ,Chandler,AZ,33.3091946,-111.8210866,Core,79,Chandler AZ
+MNM Design,Oak Park IL,Oak Park,IL,41.8933254,-87.7812524,Core,6,Oak Park IL
+"Embassy: Interactive, LLC",Philadelphia PA,Philadelphia,PA,39.9412882,-75.2187346,Core,29,Philadelphia PA
+Natural Health Center,Medical Lake WA,Medical Lake,WA,47.5729426,-117.6821604,Core,43,Medical Lake WA
+Sara K Design,Exeter CA,Exeter,CA,36.2960613,-119.1420517,Core,40,Exeter CA
+Lovable Face and Body Art,Queens NY,Queens,NY,40.7078289,-73.7389596,Core,94,Queens NY
+Sewtech,Fullerton CA,Fullerton,CA,33.881922,-117.8956062,Core,76,Fullerton CA
+Winners' Academy,West Hempstead NY,West Hempstead,NY,40.7048242,-73.6501295,Core,24,West Hempstead NY
+Auten Wide Plank Flooring,Knoxville TN,Knoxville,TN,35.9073934,-84.0061661,Core,98,Knoxville TN
+Biteable-Life,Brooklyn NY,Brooklyn,NY,40.6285158,-73.9447994,Core,97,Brooklyn NY
+"Karpilow Safe, Lock and Security",Bridgeport CT,Bridgeport,CT,41.2078356,-73.2116584,Core,22,Bridgeport CT
+GreenAce Lawn Care,Foxborough MA,Foxborough,MA,42.0706608,-71.2517835,Core,15,Foxborough MA
+Create Health with Ann Treacy,Pittsford NY,Pittsford,NY,43.0906186,-77.5149969,Core,86,Pittsford NY
+Elarah Parties,Long Valley NJ,Long Valley,NJ,40.7859331,-74.7801645,Core,50,Long Valley NJ
+"Handy Transcription Services, LLC",Kalispell MT,Kalispell,MT,48.1919889,-114.3168131,Core,4,Kalispell MT
+Heel to Toe Clinic,Huntley IL,Huntley,IL,42.1680796,-88.4281415,Core,19,Huntley IL
+Flat Rate Computer Solutions,Reston VA,Reston,VA,38.9302229,-77.3439283,Core,36,Reston VA
+Capital Expert Services,Washington DC,Washington,DC,38.9156487,-77.0737149,Core,70,Washington DC
+Eye On Waste LLC,fairfax VA,fairfax,VA,38.8923401,-77.0730875,Core,11,fairfax VA
+Lucky B Trailers,Madison VA,Madison,VA,38.3804062,-78.2575035,Core,47,Madison VA
+Texan Trailer,Tomball TX,Tomball,TX,30.0971621,-95.6160549,Core,85,Tomball TX
+D & D Trailer,Centerview MO,Centerview,MO,38.7443922,-93.8450985,Core,91,Centerview MO
+Triple M Trailers of Texas,Wills Point TX,Wills Point,TX,32.7092955,-96.0083018,Core,27,Wills Point TX
+Sundowner of Georgia,Covington GA,Covington,GA,33.5967815,-83.8601827,Core,37,Covington GA
+Embroidery Zone,Cortland NY,Cortland,NY,42.6011813,-76.1804843,Core,21,Cortland NY
+Stars chimney service,Fort Wayne IN,Fort Wayne,IN,41.089823,-85.1790404,Core,31,Fort Wayne IN
+Signal 88 Philadelphia,Philadelphia PA,Philadelphia,PA,40.0390934,-75.064035,Core,88,Philadelphia PA
+Oki SUP,Okinawa MA,Okinawa,MA,42.2498373,-71.0012313,Core,5,Okinawa MA
+Screenwritingmasterclass.com,Los Angeles CA,Los Angeles,CA,34.0963058,-118.4980744,Core,4,Los Angeles CA
+DPR Realty,Avondale AZ,Avondale,AZ,33.4763518,-112.2980119,Core,63,Avondale AZ
+OcluVet Health,Perryville MD,Perryville,MD,39.5601129,-76.0713385,Core,8,Perryville MD
+Cerro Grande,Redondo Beach CA,Redondo Beach,CA,33.8322129,-118.3870991,Core,45,Redondo Beach CA
+Trailer Mart,Fort Morgan CO,Fort Morgan,CO,40.2502582,-103.7999509,Core,94,Fort Morgan CO
+Dai Kitamura DDS Dental Corporation,Rosemead CA,Rosemead,CA,34.0617365,-118.0830047,Core,68,Rosemead CA
+Scott Health Systems,Jefferson City MO,Jefferson City,MO,38.5686223,-92.2433487,Core,16,Jefferson City MO
+Shell Creations and Boutique,Port Orange FL,Port Orange,FL,29.1145775,-80.9745372,Core,42,Port Orange FL
+KK Construction Supply,Rancho Cordova CA,Rancho Cordova,CA,38.5791051,-121.193945,Core,53,Rancho Cordova CA
+Rapid Weight Loss Expert,Savannah GA,Savannah,GA,32.0005346,-80.9760556,Core,39,Savannah GA
+B & D Trailers,Mt Pleasant TX,Mt Pleasant,TX,33.1567863,-94.968269,Core,71,Mt Pleasant TX
+Ingrid Bayne Real Estate,Newport News VA,Newport News,VA,37.0672839,-76.514138,Core,48,Newport News VA
+E&I Risk,Wilmington NC,Wilmington,NC,34.24,-77.95,Core,72,Wilmington NC
+Local Stew U,Maidens VA,Maidens,VA,38.2640123,-77.9622045,Core,11,Maidens VA
+Reagent Creative Marketing Solutions,Yuba City CA,Yuba City,CA,39.0715086,-121.6967438,Core,20,Yuba City CA
+trips to cherish,Lexington KY,Lexington,KY,38.0103355,-84.5327038,Core,50,Lexington KY
+Elk Grove Baseball Center,Elk Grove CA,Elk Grove,CA,38.4223702,-121.43419,Core,87,Elk Grove CA
+Southern Benefits of Arizona LLC,Tuscon AZ,Tuscon,AZ,32.1057222,-111.022196,Core,26,Tuscon AZ
+MilJac Enterprise LLC,Austell GA,Austell,GA,33.7779488,-84.5746243,Core,78,Austell GA
+"Drip-Thru Coffee, LLC",Stockbridge GA,Stockbridge,GA,33.5442781,-84.2338093,Core,36,Stockbridge GA
+Erie DJ Entertainment,North East PA,North East,PA,42.2156131,-79.8342163,Core,65,North East PA
+Events by Lady J,Owings Mills MD,Owings Mills,MD,39.4195499,-76.7802528,Core,55,Owings Mills MD
+Realty with Rachel,Houston TX,Houston,TX,29.9108312,-95.6563119,Core,32,Houston TX
+"Dolcini Design, LLC",Menifee CA,Menifee,CA,33.6557387,-117.185294,Core,24,Menifee CA
+Alabama Rock,Phenix City AL,Phenix City,AL,32.477563,-85.1375645,Core,74,Phenix City AL
+Mid-Century Modern Finds,San Francisco CA,San Francisco,CA,37.7225491,-122.4410618,Core,1,San Francisco CA
+Beautibydipali,Rock Hill SC,Rock Hill,SC,34.9944873,-81.0533854,Core,84,Rock Hill SC
+Elevate Health Studio,Bedford NH,Bedford,NH,42.9463291,-71.5132008,Core,97,Bedford NH
+Sonja's Silks,LaGrange GA,LaGrange,GA,32.9999801,-84.9609464,Core,100,LaGrange GA
+Shore Craft Beer,Berlin MD,Berlin,MD,38.3226153,-75.2176892,Core,80,Berlin MD
+J.C. Pets,Daly City CA,Daly City,CA,37.6800002,-122.4863492,Core,91,Daly City CA
+Feed Your Cells Coaching,Yorba Linda CA,Yorba Linda,CA,33.9011405,-117.7959713,Core,15,Yorba Linda CA
+JMPankey Partners,North Berwick ME,North Berwick,ME,43.3037349,-70.7333524,Core,58,North Berwick ME
+SpaHive,Cambridge MA,Cambridge,MA,42.3635847,-71.0824613,Core,30,Cambridge MA
+MJ Roberts Designs,Jamestown RI,Jamestown,RI,41.4963134,-71.3711656,Core,15,Jamestown RI
+Texas Mold Consultants,Austin TX,Austin,TX,30.1274614,-97.730807,Core,71,Austin TX
+Harvey Freelance Copywriting Services,Wilmington DE,Wilmington,DE,39.7329896,-75.6789905,Core,80,Wilmington DE
+JT NATURALS,Joplin MI,Joplin,MI,37.0193161,-94.5005808,Core,66,Joplin MI
+The Purple Spade,Reno NV,Reno,NV,39.4835647,-119.7310213,Core,1,Reno NV
+"Dream, Leap, Live",Silver Spring MD,Silver Spring,MD,39.0041504,-77.0391754,Core,90,Silver Spring MD
+imprint by kerri bridges,Hablock NC,Hablock,NC,34.8790492,-76.9013301,Core,98,Hablock NC
+Academic Excellence,Jersey City NJ,Jersey City,NJ,40.7329808,-74.0711359,Core,54,Jersey City NJ
+Barr Commercial Door Repair Inc,Anaheim CA,Anaheim,CA,33.8362104,-117.8721676,Core,53,Anaheim CA
+K & L Industries LLC,Boca Raton FL,Boca Raton,FL,26.3510294,-80.1540226,Core,7,Boca Raton FL
+Caregivingforyou,Los Angeles CA,Los Angeles,CA,34.0386656,-118.4221519,Core,97,Los Angeles CA
+"The Denver 100, LLC",Englewood CO,Englewood,CO,39.5835785,-104.8571368,Core,46,Englewood CO
+"T and S Financial and Tax Services,LLC",Tuscon AZ,Tuscon,AZ,32.2540946,-110.8850949,Core,96,Tuscon AZ
+Little Owl Inc.,Newbury Park CA,Newbury Park,CA,34.1805403,-118.9070887,Core,67,Newbury Park CA
+McCormack Writes,Atlanta GA,Atlanta,GA,33.7845409,-84.3489467,Core,86,Atlanta GA
+Don Smith Paints Company,Springfield IL,Springfield,IL,39.7853965,-89.6722171,Core,36,Springfield IL
+K2 Insurance PLLC,Venice FL,Venice,FL,27.0935232,-82.4373589,Core,22,Venice FL
+Northern Illinois Hospice,Rockford IL,Rockford,IL,42.2610481,-88.9509626,Core,27,Rockford IL
+"Somatic Massage Therapy, P.C.",New Hyde Park NY,New Hyde Park,NY,40.7466623,-73.6830521,Core,73,New Hyde Park NY
+Little Gardens Childcare,East Meadow NY,East Meadow,NY,40.7139898,-73.5590157,Core,56,East Meadow NY
+CMAA Andover,Andover MA,Andover,MA,42.6568574,-71.1407888,Core,40,Andover MA
+Tamir's Home Improvement,North Potomac MD,North Potomac,MD,39.1048032,-77.2520101,Core,76,North Potomac MD
+King St. Early Learning Center,Danbury CT,Danbury,CT,41.418055,-73.4769458,Core,23,Danbury CT
+Alpine Academy of Rockford,Rockford IL,Rockford,IL,42.2610481,-88.9509626,Core,12,Rockford IL
+Ocean City Fish Company,Harrington DE,Harrington,DE,38.9237244,-75.5777033,Core,77,Harrington DE
+Urban Faith Clothing Company,Arlington TX,Arlington,TX,32.6614911,-97.1467072,Core,44,Arlington TX
+CZR Inc,Jupiter FL,Jupiter,FL,26.911947,-80.0814292,Core,26,Jupiter FL
+Septic Medic,Gilbert AZ,Gilbert,AZ,33.3650631,-111.7495419,Core,81,Gilbert AZ
+"Greer Business Solutions, LLC",Douglasville GA,Douglasville,GA,33.6630087,-84.7524482,Core,60,Douglasville GA
+Intimacy Retreats,Sarasota FL,Sarasota,FL,27.2752758,-82.5564559,Core,55,Sarasota FL
+Richpeace America,Norcross GA,Norcross,GA,33.9102261,-84.1804384,Core,8,Norcross GA
+CCC Window Cleaning,Pheonix AZ,Pheonix,AZ,33.6289952,-112.1370601,Core,28,Pheonix AZ
+KLA Labs,Grove City OH,Grove City,OH,39.8762258,-83.0576156,Core,89,Grove City OH
+Outcomes Management Group,Columbus OH,Columbus,OH,39.9721714,-82.8694464,Core,91,Columbus OH
+Grand Auto Trailers,East Grand Forks MN,East Grand Forks,MN,47.9311871,-97.009347,Core,70,East Grand Forks MN
+Well Beauty Co.,Littleton CO,Littleton,CO,39.5897283,-105.0031457,Core,24,Littleton CO
+Lauren Cardinale,Branchville NJ,Branchville,NJ,41.1464852,-74.7523874,Core,57,Branchville NJ
+Haku Holistics,Jenkintown PA,Jenkintown,PA,40.0959438,-75.1251743,Core,39,Jenkintown PA
+Waggy Day Pet Services,Columbus OH,Columbus,OH,40.1420033,-82.9770371,Core,48,Columbus OH
+Grimm Tactical,Wharton NJ,Wharton,NJ,40.8931546,-74.5818254,Core,31,Wharton NJ
+Trump Commercial Cleaning Services Inc,Hilliard OH,Hilliard,OH,40.0333961,-83.1582451,Core,17,Hilliard OH
+"Pinnacle Sports, Inc.",Vernon Hills IL,Vernon Hills,IL,42.2393323,-87.9653565,Core,33,Vernon Hills IL
+Prestige Services,Columbus OH,Columbus,OH,40.1296424,-83.025396,Core,85,Columbus OH
+EZRACK LLC,Sarasota FL,Sarasota,FL,27.3331293,-82.5456374,Core,100,Sarasota FL
+Surf Resort Finder,Las Vegas NV,Las Vegas,NV,36.0883812,-115.1506875,Core,99,Las Vegas NV
+Custom Carpentry Solutions,Melrose MA,Melrose,MA,42.4573354,-71.0616623,Core,62,Melrose MA
+Prospect Farm,Dublin OH,Dublin,OH,40.0761455,-83.1541796,Core,11,Dublin OH
+Fran Gourdet,Bartonszille PA,Bartonszille,PA,41.0038964,-75.2776634,Core,64,Bartonszille PA
+Going Home Ministries,Saddle Brook NJ,Saddle Brook,NJ,40.9040085,-74.1007318,Core,38,Saddle Brook NJ
+Prairie Wind Trailers,Harrisburg SD,Harrisburg,SD,43.4313663,-96.69727,Core,13,Harrisburg SD
+Evolve Tutoring,North Grafton MA,North Grafton,MA,42.2356407,-71.6969985,Core,29,North Grafton MA
+Vagabond Beach,Burlington IA,Burlington,IA,40.8522544,-91.1161166,Core,37,Burlington IA
+Ascend Partners,Cambridge MA,Cambridge,MA,42.3635847,-71.0824613,Core,9,Cambridge MA
+The School of Royal Yoga,Chester NJ,Chester,NJ,40.7842667,-74.6968284,Core,25,Chester NJ
+Sci and Associates,Stevenson Ranch CA,Stevenson Ranch,CA,34.3931105,-118.5907538,Core,16,Stevenson Ranch CA
+Airvelations,Stanhope NJ,Stanhope,NJ,40.9028765,-74.7090517,Core,61,Stanhope NJ
+Optimal Movement Chiropractic,Scotts Valley CA,Scotts Valley,CA,37.0702838,-122.0155491,Core,50,Scotts Valley CA
+Therapeutic & Restorative Care NY,Old Tappan NJ,Old Tappan,NJ,41.010653,-73.9912493,Core,2,Old Tappan NJ
+"Financial Wealth Solutions, Inc.",Centennial CO,Centennial,CO,39.5835785,-104.8571368,Core,83,Centennial CO
+The Posh Life DJ Company,Aldie VA,Aldie,VA,38.9756745,-77.6418724,Core,79,Aldie VA
+The Keiser Group,Anaheim CA,Anaheim,CA,33.8416068,-117.702148,Core,10,Anaheim CA
+Corporate Risk & Benefits Administrator Inc.,Anaheim Hills CA,Anaheim Hills,CA,33.8416068,-117.702148,Core,93,Anaheim Hills CA
+Holland Furniture,Holland MI,Holland,MI,42.7875235,-86.1089301,Core,49,Holland MI
+Annino Law Firm,Marietta GA,Marietta,GA,33.9346756,-84.5955732,Core,68,Marietta GA
+Naturescapes Landscaping,Newfoundland NJ,Newfoundland,NJ,40.8209311,-74.4171586,Core,75,Newfoundland NJ
+Bleu Flame Catering,Pembroke FL,Pembroke,FL,25.9839048,-80.4326521,Core,3,Pembroke FL
+Amazing E,Auburn CA,Auburn,CA,38.8965654,-121.0768901,Core,65,Auburn CA
+Marilyn James Health and Beauty,Somerville MA,Somerville,MA,42.3875968,-71.0994968,Core,4,Somerville MA
+SLURPITS,Dania Beach FL,Dania Beach,FL,26.052311,-80.1439343,Core,78,Dania Beach FL
+The Harris TLC Group,Seanburh IL,Seanburh,IL,42.0130165,-88.099845,Core,52,Seanburh IL
+Florida Pool Masters,North Fort Meyers FL,North Fort Meyers,FL,26.7270316,-81.8442934,Core,19,North Fort Meyers FL
+Kabbalah Reports USA,San Diego CA,San Diego,CA,32.6858257,-117.0382158,Core,47,San Diego CA
+language kids,Sugarland TX,Sugarland,TX,29.5662952,-95.6142558,Core,87,Sugarland TX
+Safe Haven Learning Center,Raleigh NC,Raleigh,NC,35.8019142,-78.6875364,Core,82,Raleigh NC
+Juvare Studios,Hayward CA,Hayward,CA,37.6063621,-122.1178261,Core,41,Hayward CA
+RX Handy,Orangeville CA,Orangeville,CA,38.6785145,-121.2257818,Core,72,Orangeville CA
+Electric Man,Dallas TX,Dallas,TX,32.9087285,-96.7386946,Core,63,Dallas TX
+Sarah's Market and Cafe,Cambridge MA,Cambridge,MA,42.3803274,-71.1389101,Core,84,Cambridge MA
+Excel Windows,Glendale Heights IL,Glendale Heights,IL,41.9103068,-88.0717353,Core,94,Glendale Heights IL
+Transform Consulting Group,Wabash IN,Wabash,IN,40.797821,-85.8205411,Core,95,Wabash IN
+The Swedenborg Center,Wayland MA,Wayland,MA,42.3625953,-71.3614484,Core,20,Wayland MA
+Sunglass Shenanigans,Huntington Beach CA,Huntington Beach,CA,33.7222674,-118.0010421,Core,51,Huntington Beach CA
+Greystone Programs,Hopewell Junction NY,Hopewell Junction,NY,41.5839823,-73.8087442,Core,34,Hopewell Junction NY
+Five Star Martial Arts,Jackson NJ,Jackson,NJ,40.0918895,-74.3587473,Core,6,Jackson NJ
+CMS,N. Canton OH,N. Canton,OH,40.9034426,-81.4498717,Core,21,N. Canton OH
+Billow global,Charleston WV,Charleston,WV,38.3120472,-81.4828198,Core,59,Charleston WV
+PeerThru,Novato CA,Novato,CA,38.1218145,-122.5485873,Core,43,Novato CA
+Ayers Creek Adventures,Berlin MD,Berlin,MD,38.3226153,-75.2176892,Core,35,Berlin MD
+Public Body,Chelsea MA,Chelsea,MA,42.3917638,-71.0328284,Core,42,Chelsea MA
+State Ventures,Berlin MD,Berlin,MD,38.3226153,-75.2176892,Core,5,Berlin MD
+Sonoma Wool Company,Valley Ford CA,Valley Ford,CA,38.2971176,-122.9550349,Core,92,Valley Ford CA
+Modern Curandera,Lafayette CO,Lafayette,CO,39.9935959,-105.0897058,Core,14,Lafayette CO
+"Law Office of Steven A. Lucia, PLLC",Rochester NY,Rochester,NY,43.153975,-77.6120835,Core,69,Rochester NY
+Blackburn Consulting,Clemmons NC,Clemmons,NC,36.0215258,-80.3819984,Core,63,Clemmons NC
+GBC Worldwide,Acworth GA,Acworth,GA,34.1142529,-84.6374484,Core,24,Acworth GA
+9Round North Metro Denver,Westminster CO,Westminster,CO,39.8619647,-105.0031457,Core,23,Westminster CO
+New River Fellowship,Weatherford TX,Weatherford,TX,32.7522671,-97.7905758,Core,56,Weatherford TX
+L'Optique Boutique,Somerville MA,Somerville,MA,42.3991718,-71.1240559,Core,42,Somerville MA
+Socially Skilled Kids,Belmont MA,Belmont,MA,42.3958849,-71.1745579,Core,41,Belmont MA
+P&M Accounting,Monticello NY,Monticello,NY,41.6556465,-74.6893282,Core,54,Monticello NY
+Casey Giovinco,Carlisle PA,Carlisle,PA,40.2010241,-77.2002745,Core,69,Carlisle PA
+Belle Meade Framers,Nashville TN,Nashville,TN,36.1030036,-86.8722146,Core,83,Nashville TN
+Jim Cullinan Realtor,Fairfield CT,Fairfield,CT,41.1948222,-73.28833,Core,81,Fairfield CT
+Fly Fitness,Kirkland WA,Kirkland,WA,47.6688298,-122.1923875,Core,55,Kirkland WA
+Acme Process Group,Centreville VA,Centreville,VA,38.8193117,-77.4587239,Core,37,Centreville VA
+Busy Bee Colorado,Broomfield CO,Broomfield,CO,39.9389199,-105.0674317,Core,29,Broomfield CO
+I thrive You thrive,Albuquerque NM,Albuquerque,NM,35.1322706,-106.4994889,Core,99,Albuquerque NM
+"Red Petal Photography & Design Studio, LLC",Greenfield WI,Greenfield,WI,42.9678365,-87.9873724,Core,31,Greenfield WI
+Colony Pumpkin Patch,North Liberty IA,North Liberty,IA,41.739482,-91.6080974,Core,13,North Liberty IA
+The Messenger,Boston MA,Boston,MA,42.3654231,-71.0549768,Core,45,Boston MA
+Goodspirits,Riverside CA,Riverside,CA,33.999677,-117.3675233,Core,3,Riverside CA
+3mc,Cincinnati OH,Cincinnati,OH,39.1471688,-84.5589076,Core,1,Cincinnati OH
+Boston Center For Oral Health,Boston MA,Boston,MA,42.3476181,-71.1002881,Core,74,Boston MA
+JEB Electric,Santa Barbara CA,Santa Barbara,CA,34.4038383,-119.7252297,Core,20,Santa Barbara CA
+Jon C. Wretlind Graphics,Loveland CO,Loveland,CO,40.372134,-105.1960795,Core,14,Loveland CO
+3d Xplosive Performance,Heightsville MD,Heightsville,MD,38.9732233,-76.947022,Core,88,Heightsville MD
+Zero Level Fitness,Las Vegas NV,Las Vegas,NV,36.1100428,-115.3667218,Core,96,Las Vegas NV
+Dan's Window Rangers,Bandera TX,Bandera,TX,29.7266131,-99.0736462,Core,73,Bandera TX
+"Ormond Granite and Marble, Inc.",Holly Hill FL,Holly Hill,FL,29.2435916,-81.0375555,Core,52,Holly Hill FL
+"Gavrieli Plastics, Metal & Sign Supplies",North Hollywood CA,North Hollywood,CA,34.208195,-118.3987842,Core,27,North Hollywood CA
+Shrimp Boat,Ocean City MD,Ocean City,MD,38.3358442,-75.0853092,Core,5,Ocean City MD
+Salty Wave Seafood,Harrington DE,Harrington,DE,38.9237244,-75.5777033,Core,92,Harrington DE
+Solid Design Concrete,Monroeville NJ,Monroeville,NJ,39.6290092,-75.1593816,Core,17,Monroeville NJ
+Southcoast Media Group - New Bedford Times,New Bedford MA,New Bedford,MA,41.6381659,-70.9368469,Core,71,New Bedford MA
+Imprint Warehouse,Hinesville GA,Hinesville,GA,31.8305871,-81.6254283,Core,79,Hinesville GA
+Conscious Step,Brooklyn NY,Brooklyn,NY,40.7119031,-73.9660683,Core,58,Brooklyn NY
+God's Promises,Maricopa AZ,Maricopa,AZ,33.0581063,-112.0476423,Core,62,Maricopa AZ
+Corporate Performance NV,Las Vegas NV,Las Vegas,NV,36.1100428,-115.3667218,Core,33,Las Vegas NV
+BF Management Consulting,San Bernardino CA,San Bernardino,CA,34.1585191,-117.2554498,Core,34,San Bernardino CA
+Cayuga Country Homes,Ithaca NY,Ithaca,NY,42.4439614,-76.5018807,Core,89,Ithaca NY
+Wondertree Kids,El Segundo CA,El Segundo,CA,33.9191799,-118.4164652,Core,86,El Segundo CA
+American Town Cleaning,Deland FL,Deland,FL,29.0128283,-81.3729372,Core,8,Deland FL
+Fiduciary Resource Network,Easton MD,Easton,MD,38.7742826,-76.0763305,Core,77,Easton MD
+Halifax Tree Expert Co.,Ormond Beach FL,Ormond Beach,FL,29.2890392,-81.1857736,Core,97,Ormond Beach FL
+RebrandTesting1,New York NY,New York,NY,42.8140012,-73.9814578,Core,65,New York NY
+RebrandTesting2,Boston MS,Boston,MS,42.3548561,-71.0661193,Core,10,Boston MS
+Shana Love Coaching,Kailua HI,Kailua,HI,21.4022222,-157.7394444,Core,49,Kailua HI
+Synergy Martial Arts,Freehold NJ,Freehold,NJ,40.2303787,-74.2766186,Core,48,Freehold NJ
+Pearson Smith Realty,Leesburg VA,Leesburg,VA,39.2079214,-77.5390127,Core,39,Leesburg VA
+Hands Up High Ministries,Milton TN,Milton,TN,35.929786,-86.1816572,Core,93,Milton TN
+Alaska Wild Adventures,Anchor Point AK,Anchor Point,AK,59.7766667,-151.8313889,Core,6,Anchor Point AK
+Therapeutic Massage by Wendy,Le Mesa CA,Le Mesa,CA,32.7749487,-117.0146736,Core,3,Le Mesa CA
+Figueiredo Carpenter & Builder,Marion MA,Marion,MA,41.697719,-70.7525299,Core,45,Marion MA
+AC Design and Development,Bronx NY,Bronx,NY,40.8887394,-73.8477874,Core,41,Bronx NY
+The Harlow Law Firm,Round Rock TX,Round Rock,TX,30.5184228,-97.7090854,Core,84,Round Rock TX
+Pole Dancer Fishin' Charter,Ormond Beach FL,Ormond Beach,FL,29.2890392,-81.1857736,Core,89,Ormond Beach FL
+Woodlands Family Chiropractic,Conroe TX,Conroe,TX,30.2404085,-95.4882679,Core,70,Conroe TX
+Liles Parker,Washington DC,Washington,DC,38.9156487,-77.0737149,Core,61,Washington DC
+Stacey Cohen,Waxhaw NC,Waxhaw,NC,34.9245935,-80.7434019,Core,6,Waxhaw NC
+Standard Marine Outfitters,New Bedford MA,New Bedford,MA,41.6381659,-70.9368469,Core,43,New Bedford MA
+FloreMarie,Washington DC DC,Washington DC,DC,38.8761083,-77.0190228,Core,12,Washington DC DC
+Direx Capital," Ormond Beach, FL"," Ormond Beach,",FL,29.2890392,-81.1857736,Core,2," Ormond Beach, FL"
+Che'TaNi Travel,Johns Creek GA,Johns Creek,GA,34.029613,-84.238417,Core,98,Johns Creek GA
+HAUTE GREY CONSULTING,Estero FL,Estero,FL,26.438136,-81.8067523,Core,46,Estero FL
+Bergaa Realty,Estero FL,Estero,FL,26.438136,-81.8067523,Core,34,Estero FL
+BeautyByBenicia,Fairfield CA,Fairfield,CA,38.2493627,-122.0399969,Core,40,Fairfield CA
+Feel of Elegance Event Design,Timonium MD,Timonium,MD,39.4370508,-76.6196915,Core,47,Timonium MD
+IN8 Wellness Center,Beverly MA,Beverly,MA,42.5584283,-70.880049,Core,72,Beverly MA
+Bioclenz PH,Bethesda MD,Bethesda,MD,38.9516143,-77.1197521,Core,88,Bethesda MD
+New Life Wellness Med Spa,Pasadena CA,Pasadena,CA,34.1456654,-118.1268976,Core,75,Pasadena CA
+Dream Life and Home,Estero FL,Estero,FL,26.438136,-81.8067523,Core,52,Estero FL
+Premier Land Title,Bonita Springs FL,Bonita Springs,FL,26.3398513,-81.8333656,Core,1,Bonita Springs FL
+Behavioral Forensics Group™ LLC,Grayslake IL,Grayslake,IL,42.3444664,-88.041746,Core,87,Grayslake IL
+Wings n Things,Mattapoisett MA,Mattapoisett,MA,41.6716258,-70.8238874,Core,65,Mattapoisett MA
+Pressure Washing and Window Cleaning Wizard,Sicklerville NJ,Sicklerville,NJ,39.7172152,-74.9697707,Core,39,Sicklerville NJ
+Ferrer's Electric LLC,Southbury CT,Southbury,CT,41.4849269,-73.2057595,Core,78,Southbury CT
+Steam Academy,Lafayette IN,Lafayette,IN,40.3759696,-86.8857861,Core,14,Lafayette IN
+"Wholesome Essence, Inc.",Pasadena CA,Pasadena,CA,34.149491,-118.099449,Core,69,Pasadena CA
+Gisselle Guerra Real Estate,Orlando FL,Orlando,FL,28.5513952,-81.3014284,Core,91,Orlando FL
+GROWING PATCH LEARNING CENTER,Pittsburgh PA,Pittsburgh,PA,40.490944,-80.0143656,Core,49,Pittsburgh PA
+Cape Wide Telephone,East Sandwich MA,East Sandwich,MA,41.7545735,-70.5160576,Core,74,East Sandwich MA
+Drone Air Video Technology,Boston MA,Boston,MA,42.3364553,-71.0349193,Core,29,Boston MA
+Predator Solar Mounting Systems,Syracuse UT,Syracuse,UT,41.0541918,-112.1191757,Core,94,Syracuse UT
+GTC Custom Gifts,Roanoke TX,Roanoke,TX,33.0040126,-97.2258483,Core,11,Roanoke TX
+AI Gazette,Atlanta GA,Atlanta,GA,33.7845409,-84.3489467,Core,24,Atlanta GA
+Fireside IT Solutions,Rutherford NJ,Rutherford,NJ,40.826489,-74.1068091,Core,42,Rutherford NJ
+Speaking to the Heart Radio Network,Troy NY,Troy,NY,42.7284117,-73.6917851,Core,8,Troy NY
+OPTAVIA,Cape May Courthouse NJ,Cape May Courthouse,NJ,39.0826135,-74.8237786,Core,57,Cape May Courthouse NJ
+UNI-STAR Cleaning Service,Manchester NH,Manchester,NH,42.9632901,-71.4002502,Core,58,Manchester NH
+Healing for Mental Health,Lake Hiawatha NJ,Lake Hiawatha,NJ,40.8822334,-74.3792737,Core,23,Lake Hiawatha NJ
+Dan Barrile Realty,Fort Meyers FL,Fort Meyers,FL,26.5545224,-81.898908,Core,36,Fort Meyers FL
+CDBeauty Lab,Manhattan NY,Manhattan,NY,40.7388319,-73.9815337,Core,33,Manhattan NY
+Ambush Media,Lithonia GA,Lithonia,GA,33.7123305,-84.1051939,Core,66,Lithonia GA
+Design Custom Homes Blog,DeForest WI,DeForest,WI,43.2477685,-89.343727,Core,4,DeForest WI
+"Corinne A. Pierson, P.A.",Pompano Beach FL,Pompano Beach,FL,26.237305,-80.1149414,Core,82,Pompano Beach FL
+Scarlett Ryan Consulting,Fanwood NJ,Fanwood,NJ,40.6409358,-74.383484,Core,20,Fanwood NJ
+Saffron and Sage,Cambridge MA,Cambridge,MA,42.3635847,-71.0824613,Core,71,Cambridge MA
+Four Sisters Cafe,Roseville CA,Roseville,CA,38.7637052,-121.2912463,Core,80,Roseville CA
+T. Seleda Consulting,Melville NY,Melville,NY,40.8126648,-73.3590802,Core,67,Melville NY
+Sister 2 Sister Enterprise,Lakewood CO,Lakewood,CO,39.6682515,-105.096661,Core,16,Lakewood CO
+Princess & The Pauper,Fresno CA,Fresno,CA,36.8381393,-119.829443,Core,79,Fresno CA
+ArtlyOwl,san francisco CA,san francisco,CA,37.7897237,-122.4216779,Core,25,san francisco CA
+Spiral Inquiry,Wayland MA,Wayland,MA,42.3625953,-71.3614484,Core,60,Wayland MA
+US Military Maintenance Northeast Ohio,Youngstown OH,Youngstown,OH,40.9890605,-80.621591,Core,30,Youngstown OH
+Pet Providers,Westwood MA,Westwood,MA,42.2139873,-71.2244987,Core,93,Westwood MA
+Schwab Legal Group,Oshkosh WI,Oshkosh,WI,44.0291228,-88.4984991,Core,99,Oshkosh WI
+Dynasty Defense,Rogers AR,Rogers,AR,36.3320196,-94.1185366,Core,90,Rogers AR
+Outer Cape Health Services,Wellfleet MA,Wellfleet,MA,41.9307962,-70.0145855,Core,28,Wellfleet MA
+Max Ruthven LLC,Austin TX,Austin,TX,30.3666665,-97.9483898,Core,51,Austin TX
+American Patriot Handyman Services,Woodstock AL,Woodstock,AL,33.1930982,-87.1722037,Core,27,Woodstock AL
+Gila Bash Katz Beauty and CosMEDics,New York NY,New York,NY,40.7388319,-73.9815337,Core,21,New York NY
+ASC Professional Handling,Cambridge MD,Cambridge,MD,38.5631744,-76.0788292,Core,7,Cambridge MD
+Hi-Way Concrete Products,Wareham MA,Wareham,MA,41.7614511,-70.7197342,Core,35,Wareham MA
+"Independent Freight Contractors, Inc.",Ponce Inlet FL,Ponce Inlet,FL,29.1145775,-80.9745372,Core,50,Ponce Inlet FL
+All About Dancewear,Dayton OH,Dayton,OH,39.8476384,-84.2173403,Core,81,Dayton OH
+Dartmouth Pools & Spas,New Bedford MA,New Bedford,MA,41.6920942,-70.9427914,Core,32,New Bedford MA
+DieHard Media LLC,Las Vegas NV,Las Vegas,NV,36.135635,-115.2304131,Core,18,Las Vegas NV
+Jia Collection - Multifunctional Fashion,New York NY,New York,NY,40.8032131,-73.9525825,Core,76,New York NY
+Pediatric Holistic Medicine,Ann Arbor MI,Ann Arbor,MI,42.2660881,-83.7146001,Core,19,Ann Arbor MI
+NY Golf Fitness Guru,New York NY,New York,NY,40.7593941,-73.9697795,Core,100,New York NY
+"Pal Electrical Contractor, LLC",Burke VA,Burke,VA,38.7843884,-77.2807423,Core,95,Burke VA
+My Transmission Experts,Houston TX,Houston,TX,29.8296506,-95.6668306,Core,9,Houston TX
+Have a Ball Style and Design,Richmond VA,Richmond,VA,37.59161,-77.6421577,Core,85,Richmond VA
+Integrative Harmony Health,Atlanta GA,Atlanta,GA,33.8363126,-84.3857442,Core,53,Atlanta GA
+ROI Media,Tulsa OK,Tulsa,OK,36.1005816,-95.9251211,Core,56,Tulsa OK
+Are You A Glow Kid?,Pompton Lakes NJ,Pompton Lakes,NJ,41.0053753,-74.2907041,Core,15,Pompton Lakes NJ
+Richard L Terry Attorney at Law,Mashpee MA,Mashpee,MA,41.6177476,-70.5145939,Core,63,Mashpee MA
+Juliane Soprano,Falmouth MA,Falmouth,MA,41.5750249,-70.6276279,Core,62,Falmouth MA
+Actuarial Litigation Consulting,Feeding Hills MA,Feeding Hills,MA,42.067082,-72.6777225,Core,34,Feeding Hills MA
+renovatehealth,Seattle WA,Seattle,WA,47.6084921,-122.336407,Core,1,Seattle WA
+FIX My EDGE - Mobile Sharpening,Dover NJ,Dover,NJ,40.883988,-74.5621025,Core,91,Dover NJ
+Grind Time Fitness,Warren NJ,Warren,NJ,40.6342489,-74.5004796,Core,13,Warren NJ
+Nuview Media,San Dimas CA,San Dimas,CA,34.1066756,-117.8067257,Core,15,San Dimas CA
+Nichols Horticulture,Middleborough MA,Middleborough,MA,41.875212,-70.8357792,Core,61,Middleborough MA
+Auburn Magazine,Auburn CA,Auburn,CA,38.9851375,-121.1022942,Core,18,Auburn CA
+Elite Dental Services,Chino Hills CA,Chino Hills,CA,33.9898188,-117.7325848,Core,86,Chino Hills CA
+Blue Harbor - Glen Riddle,Media PA,Media,PA,39.9167783,-75.387693,Core,59,Media PA
+Curves of Courage,Wauwatosa WI,Wauwatosa,WI,43.0852217,-88.0363086,Core,21,Wauwatosa WI
+Dawn Terrick,Plattsburgh NY,Plattsburgh,NY,44.670804,-73.4513324,Core,38,Plattsburgh NY
+EMG Technology LLC,Charlotte NC,Charlotte,NC,35.2413572,-80.7103532,Core,63,Charlotte NC
+Cooking Beautiful Lee,Framingham MA,Framingham,MA,42.3240042,-71.4536835,Core,94,Framingham MA
+Fur Elise Piano Service,Pawleys Island SC,Pawleys Island,SC,33.4332236,-79.1214313,Core,40,Pawleys Island SC
+Health in Hands Spa,Montclair NJ,Montclair,NJ,40.8400532,-74.2003231,Core,3,Montclair NJ
+Fixii,University City MO,University City,MO,38.6682669,-90.3230807,Core,12,University City MO
+San Diego Hit,San Marcos CA,San Marcos,CA,33.1630271,-117.1617685,Core,25,San Marcos CA
+The Crown Designs,Newark NJ,Newark,NJ,40.7663804,-74.1856472,Core,83,Newark NJ
+Care Collab,Bethesda MD,Bethesda,MD,39.0038878,-77.1053673,Core,43,Bethesda MD
+Fit Retail,Franklin MA,Franklin,MA,42.0834313,-71.396725,Core,53,Franklin MA
+"Unison Information Systems, Ltd.",Natick MA,Natick,MA,42.2775281,-71.3468091,Core,16,Natick MA
+Benefit Secure,Anaheim CA,Anaheim,CA,33.8416068,-117.702148,Core,50,Anaheim CA
+Forever in Spirit,Mission Hills CA,Mission Hills,CA,34.2722582,-118.4688776,Core,19,Mission Hills CA
+Clear Bookkeeping Solutions,Fate TX,Fate,TX,32.9427558,-96.3013432,Core,73,Fate TX
+Carve Digital,Denver CO,Denver,CO,39.7541032,-105.0002242,Core,78,Denver CO
+Local Lawyers Referral,South Dennis MA,South Dennis,MA,41.7020781,-70.1515342,Core,5,South Dennis MA
+Century 21 Hometown Realty,Paso Robles CA,Paso Robles,CA,35.6368759,-120.6545022,Core,24,Paso Robles CA
+Reboot Remedy,Houston TX,Houston,TX,29.8760239,-95.5249863,Core,54,Houston TX
+Inspired Growth Consulting,Redondo Beach CA,Redondo Beach,CA,33.865913,-118.3754131,Core,37,Redondo Beach CA
+SafeHome Insurance Services,Dallas TX,Dallas,TX,32.9309279,-96.7949137,Core,76,Dallas TX
+Denesha Insurance Agency,Bakersfield CA,Bakersfield,CA,35.3734151,-119.1274334,Core,8,Bakersfield CA
+Scrapper's Edge,Eureka CA,Eureka,CA,40.8134774,-124.1460963,Core,81,Eureka CA
+Ace Feet,Weymouth MA,Weymouth,MA,42.210555,-70.9249578,Core,48,Weymouth MA
+NH 1 Motors,Concord NH,Concord,NH,43.2086343,-71.5486562,Core,82,Concord NH
+Bazaz Construction,Barre MA,Barre,MA,42.4229047,-72.1051002,Core,32,Barre MA
+A Studio at 68,Bolton MA,Bolton,MA,42.4334258,-71.6078449,Core,75,Bolton MA
+Darnall Photography,Newport Beach CA,Newport Beach,CA,33.6301328,-117.8721676,Core,89,Newport Beach CA
+Cleaning by Rafael,Townsend DE,Townsend,DE,39.3951115,-75.6915973,Core,58,Townsend DE
+Byrne & Associates,St. Louis MO,St. Louis,MO,38.647459,-90.25731,Core,72,St. Louis MO
+"AquaRep, Inc.",Tavernier FL,Tavernier,FL,25.0115186,-80.5150608,Core,30,Tavernier FL
+Big D Party Rentals,Carrollton TX,Carrollton,TX,32.9678449,-96.8887202,Core,45,Carrollton TX
+Cfascrubs,Arcadia CA,Arcadia,CA,34.1172361,-118.0244639,Core,0,Arcadia CA
+Haley Farm,Oakland MD,Oakland,MD,39.4078747,-79.4067116,Core,10,Oakland MD
+Eye Physicians of Virginia,Falls Churh VA,Falls Churh,VA,38.8989474,-77.2002745,Core,68,Falls Churh VA
+Blushlifemovement,Atlanta GA,Atlanta,GA,33.8676889,-84.4645184,Core,55,Atlanta GA
+Crafted Cleaners LLC,DeKalb GA,DeKalb,GA,33.7414395,-84.2594861,Core,95,DeKalb GA
+Amit Dev Handa,Las Vegas NV,Las Vegas,NV,36.1104125,-115.2067011,Core,26,Las Vegas NV
+Montessori School of San Clemente,San Clemente CA,San Clemente,CA,33.4662881,-117.6317494,Core,49,San Clemente CA
+Revolution 250,Boston MA,Boston,MA,42.3476181,-71.1002881,Core,23,Boston MA
+Steeds IT,Waterloo CA,Waterloo,CA,42.4863528,-92.3059352,Core,29,Waterloo CA
+Bella ADHD & Family Coaching,St. Joseph MI,St. Joseph,MI,42.0938577,-86.4895463,Core,64,St. Joseph MI
+Tranquility Base LLC,Salisbury NC,Salisbury,NC,35.69709,-80.5660657,Core,33,Salisbury NC
+Raymond Byler,Spartansburg PA,Spartansburg,PA,41.8239463,-79.6836626,Core,87,Spartansburg PA
+Mezza Luna Restaurant,Buzzards bay MA,Buzzards bay,MA,41.7453829,-70.618087,Core,46,Buzzards bay MA
+Boss Playa Productions - Wedding DJ Service,Charlotte NC,Charlotte,NC,35.2413572,-80.7103532,Core,56,Charlotte NC
+Alana Scott,Hughson CA,Hughson,CA,37.596789,-120.864275,Core,100,Hughson CA
+Usmanii Jewelry Designs,Queens Village NY,Queens Village,NY,40.7156628,-73.7419017,Core,79,Queens Village NY
+Joy In Service Senior Home Care Agency,Omaha NE,Omaha,NE,41.203996,-96.1155932,Core,70,Omaha NE
+Live Brite Now,Novato CA,Novato,CA,38.0599857,-122.503327,Core,6,Novato CA
+Verdini Sheet Metal,Worcester MA,Worcester,MA,42.2530794,-71.7741103,Core,98,Worcester MA
+US Military Maintenance Mile High,Arvada CO,Arvada,CO,39.8182494,-105.0674317,Core,90,Arvada CO
+CD17 Grafix,Austin TX,Austin,TX,30.4570672,-97.681943,Core,67,Austin TX
+VESTA: Redefining Divorce,Natick MA,Natick,MA,42.2775281,-71.3468091,Core,96,Natick MA
+www.lancompusa.com,Wayne NJ,Wayne,NJ,40.9253725,-74.2765441,Core,42,Wayne NJ
+Working Class Hunter,Shelbyville KY,Shelbyville,KY,38.2120144,-85.2235666,Core,19,Shelbyville KY
+Eye Clinic for Animals-Seattle,Lynnwood WA,Lynnwood,WA,47.8419525,-122.2881807,Core,26,Lynnwood WA
+Eye Clinic for Animals-Arkansas,Springdale AR,Springdale,AR,36.1675026,-94.2128337,Core,91,Springdale AR
+Favour Consulting Group,North Hollywood CA,North Hollywood,CA,34.1658804,-118.3637264,Core,53,North Hollywood CA
